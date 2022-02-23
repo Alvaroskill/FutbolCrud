@@ -1,6 +1,7 @@
 # FutbolCrud
 
-Para empezar aqui os voy a poner la tabla que he usado para el trabajo: ![Captura](https://user-images.githubusercontent.com/91873161/155365565-604a1215-16db-4e8f-8f7e-b39183002630.PNG)
+Para empezar aqui os voy a poner la tabla que he usado para el trabajo:![Captura](https://user-images.githubusercontent.com/91873161/155389026-a468af8b-86a7-43ba-b95b-d3f741b81e90.PNG)
+
 
 Aquí pusé un login pero solo sirve de adorno, no es funcional: ![login](https://user-images.githubusercontent.com/91873161/155365714-515749c1-e337-4994-996f-a6461a761aa8.png)
 
