@@ -12,6 +12,6 @@ Si le damos a dar de alta a un equipo nos aparecerá una ventana donde rellenar 
 
 ![equipos](https://user-images.githubusercontent.com/91873161/155366105-69592274-90bc-40d5-b5ba-1801981ce535.png)
 
-
-
+Tabla jugadores: 
+![jugadores](https://user-images.githubusercontent.com/91873161/155366668-72bdbc49-43b6-4b95-a7af-2a75e67724e1.png)
 
