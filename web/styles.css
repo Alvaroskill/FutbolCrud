@@ -1,0 +1,164 @@
+@font-face {
+    font-family: Texto ;
+    src: url(Mandhor-ALEmp.otf);
+}
+
+
+
+#login { 
+background-image: url(img/descarga.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+root { 
+    display: block;
+}
+
+table {
+    font-family: Texto;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.4em;
+    font-style: normal;
+    border-collapse:separate;
+}
+
+th{
+    padding:15px;
+    color:#000;
+    text-shadow:1px 1px 1px #568F23;
+    border:1px solid #93CE37;
+    border-bottom:3px solid #9ED929;
+    background-color:#9DD929;
+    background:-webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.02, rgb(123,192,67)),
+        color-stop(0.51, rgb(139,198,66)),
+        color-stop(0.87, rgb(158,217,41))
+        );
+    background: -moz-linear-gradient(
+        center bottom,
+        rgb(123,192,67) 2%,
+        rgb(139,198,66) 51%,
+        rgb(158,217,41) 87%
+        );
+    -webkit-border-top-left-radius:5px;
+    -webkit-border-top-right-radius:5px;
+    -moz-border-radius:5px 5px 0px 0px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+
+thead th:empty{
+    background:transparent;
+    border:none;
+}
+
+tbody td{
+    padding:10px;
+    text-align:center;
+    background-color:#DEF3CA;
+    border: 2px solid #E7EFE0;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+    border-radius:2px;
+    color:#666;
+    text-shadow:1px 1px 1px #fff;
+}
+
+#Bienvenida{font-family: Texto;
+      background-image: url(img/descarga2.jfif);
+      background-size: cover;
+      background-repeat: no-repeat;}
+
+
+#wrapper {width: 100%;
+          overflow: hidden;
+          position: relative;
+          text-align: center;
+          margin: auto;}
+
+
+#nav{text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 2em;
+    background-color: rgba(255,255,255,0.5);
+    background-position: 50%;}
+
+#nav a {text-decoration: none;
+        color: #000;}
+
+#nav a:hover {color: #fff;}
+
+#equipos{
+font-family: Texto;
+font-size:12px;
+background-image: url(img/descarga2.jfif);
+background-repeat: no-repeat ;
+background-size: cover;
+color: white;
+}
+
+#jugadores{
+    background-image: url(img/descarga2.jfif);
+    color: white;
+    font-family: Texto;
+    font-size:12px;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+p, h1, form, button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+
+.myform{
+margin:0 auto;
+width:350px;
+padding:15px;
+}
+
+#stylized{
+background:black;
+padding: 50px;
+}
+#stylized h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:8px;
+color: white;
+}
+#stylized p{
+font-size:11px;
+color:white;
+margin-bottom:20px;
+padding-bottom:10px;
+color: white;
+}
+#stylized label{
+display:block;
+font-weight:bold;
+text-align:center;
+width:140px;
+color: white;
+
+}
+#stylized .small{
+color:#f00;
+display:block;
+font-size:11px;
+font-weight:normal;
+text-align:right;
+width:140px;
+visibility:hidden;
+}
+#stylized input, #stylized select{
+float:left;
+font-size:12px;
+padding:4px 2px;
+width:200px;
+margin:2px 0 20px 10px;
+}
+
